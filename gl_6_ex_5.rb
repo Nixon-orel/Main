@@ -10,7 +10,7 @@ puts "Введите месяц своего рождения"
 user_month = gets.to_i
 puts "Введите день своего рождения"
 user_day = gets.to_i
-if user_month = month_today && user_day <= day_today
+if user_month == month_today && user_day <= day_today
     result = year_today - user_year
 elsif user_month < month_today
     result = year_today - user_year
