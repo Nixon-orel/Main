@@ -3,11 +3,11 @@
 
 #Пользователь вводит название файла в качестве параметра консоли при запуске. Если же файл не найден, 
 #то сообщает об этом пользователю.
-file = File.new("/home/nixon/study/Main/file.txt")
+file = File.new("/home/nixon/study/Main/lesson13/file.txt")
 if File.exist?(file)
     system "clear"
     lines = file.readlines
-    puts "Вы открыли файл: #{File.basename("/home/nixon/study/Main/file.txt")}"
+    puts "Вы открыли файл: #{File.basename("/home/nixon/study/Main/lesson13/file.txt")}"
     puts "Количество строк: #{lines.size}"
     empty = 0
     lines.each do |i|
