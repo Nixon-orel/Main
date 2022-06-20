@@ -1,3 +1,4 @@
+#https://rubyrush.ru/steps/xml-html-01
 require 'rexml/document'
 file_name = "./rr_106_data/card.xml"
 abort "Sorry, file not found" unless File.exist?(file_name)

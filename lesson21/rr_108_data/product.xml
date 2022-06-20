@@ -1,0 +1,22 @@
+<products>
+
+  <product price="500" balance="2">
+    <book title="The Grapes of Wrath" author="John Steinbeck"></book>
+  </product>
+
+  <product price="700" balance="1">
+    <book title="Think and Grow Rich" author="Napoleon Hill"></book>
+  </product>
+
+  <product price="200" balance="1">
+    <disk title="Master of Puppets" artist="Metallica"></disk>
+  </product>
+
+  <product price="250" balance="2">
+    <disk title="A Day at the Races" artist="Quenn"></disk>
+  </product>
+
+  <product price="300x" balance="3">
+    <movie title="Schindler list" director="Steven Spilberg" year="1999"></movie>
+  </product>
+</products>
