@@ -13,7 +13,7 @@ if user_date == ''
     date = Date.today.strftime("%d-%m-%Y")
   else
     begin 
-      date = Date.parse(date_input).strftime("%d-%m-%Y")
+      date = Date.parse(user_date).strftime("%d-%m-%Y")
     rescue 
       puts "Date entered incorrectly. The current date will be used"
       date = Date.today.strftime("%d-%m-%Y")
