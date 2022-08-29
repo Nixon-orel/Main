@@ -1,0 +1,1 @@
+Here will be general information about my education. Ruby-on-rails.
