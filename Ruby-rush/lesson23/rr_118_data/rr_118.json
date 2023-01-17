@@ -1,0 +1,23 @@
+{
+    "H":{
+      "number": 1,
+      "name": "Hydrogenium",
+      "density": 0.08988,
+      "year": 1766,
+      "discoverer": "Henry Cavendish"
+    },
+    "He":{
+        "number": 2,
+        "name": "Helium",
+        "density": 0.17,
+        "year": 1895,
+        "discoverer": "Pierre Jules César Janssen"
+      },
+    "Li":{
+        "number": 3,
+        "name": "Lithium",
+        "density": 0.53,
+        "year": 1817,
+        "discoverer": "Johan August Arfwedson"
+      }
+  }
