@@ -1,0 +1,1 @@
+Here will be generalinformation about my edication. Projectuler.
