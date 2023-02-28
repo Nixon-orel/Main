@@ -1,1 +1,1 @@
-This repository will tell you about my training
+This repository shows you my training
